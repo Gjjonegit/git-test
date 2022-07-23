@@ -8,5 +8,11 @@ public class GitTest {
         System.out.println("hello git44!");
         System.out.println("master test!!");
         System.out.println("hot-fix  test!");
+        //------------------------------
+        int j=0;
+        for(int i=0;i<=5;i++){
+            j+=i;
+        }
+        System.out.println("push test!"+j);
     }
 }
